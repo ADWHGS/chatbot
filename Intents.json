@@ -10,7 +10,7 @@
              "Hello",
              "Good day"
             ],
-            "Responses": [
+            "responses": [
             "Hey :-)",
             "Hello, thanks for visiting",
             "Hi there, what can I do for you?",
@@ -21,13 +21,14 @@
             "tag": "goodbye",
             "patterns":[
              "Bye",
-             "See you later"
+             "See you later",
+             "Cya"
             ],
-            "Responses": [
-            "Hey :-)",
-            "Hello, thanks for visiting",
-            "Hi there, what can I do for you?",
-             "Hi there, how can I help?"
+            "responses": [
+            "Bye, dont come back.",
+            "Thanks for visiting",
+            "See you later alligator.",
+             "Bye-Bye!"
             ]
         },
         {
@@ -36,12 +37,13 @@
              "Thanks",
              "Thank you"
             ],
-            "Responses": [
+            "responses": [
             "Happy to help",
             "No problem",
             "Hi there, what can I do for you?",
              "Hi there, how can I help?"
             ]
         }
+
     ]
 }
